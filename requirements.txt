@@ -1,0 +1,4 @@
+serverless_wsgi
+flask
+requests
+rembg
